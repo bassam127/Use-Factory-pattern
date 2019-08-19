@@ -6,7 +6,7 @@ public class CandyStore {
 		
 		CandyFactory candyFactory = new CandyFactory();
 		
-		candyFactory.getCandyPackage("HardChoclate", 12);
+		candyFactory.getCandyPackage("HardChoclate", 10);
 
 	}
 
