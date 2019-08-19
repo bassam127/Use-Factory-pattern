@@ -14,7 +14,7 @@ public class HardChoclate extends Candy {
 			hrdChoclates.add(hardChoclate);
 		}
 		
-		System.out.println("one package of "+ quantity + "hardchoclate made");
+		System.out.println("one package of " + quantity + " hardchoclate made");
 		return hrdChoclates;
 		
 	}
